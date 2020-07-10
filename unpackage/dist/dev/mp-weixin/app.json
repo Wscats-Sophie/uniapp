@@ -1,0 +1,17 @@
+{
+  "pages": [
+    "pages/demo2/demo2",
+    "pages/index/index",
+    "pages/demo1/demo1",
+    "pages/demo2/demo2"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "white",
+    "navigationBarTitleText": "uni-app",
+    "navigationBarBackgroundColor": "#007AFF",
+    "backgroundColor": "#FFFFFF"
+  },
+  "usingComponents": {},
+  "sitemapLocation": "sitemap82.json"
+}
